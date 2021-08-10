@@ -1,6 +1,6 @@
 # isNan
 
-Check if an object is another object's nan.
+Check if an object is another object's grandma.
 
 # Example
 
